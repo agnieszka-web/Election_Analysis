@@ -1,9 +1,11 @@
 # Election_Audit_Analysis
 
 The purpose of this audit analysis is to answer the following questions:
---county with the highest voter turnout
---the voter turnout for each county
---to find out the percentage of votes for each county
+-county with the highest voter turnout
+
+-the voter turnout for each county
+
+-to find out the percentage of votes for each county
 
 ## Resources
  - Data source: election_results.csv
@@ -15,6 +17,7 @@ How many votes were cast in this congressional election?
  
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 - Conty Votes:
+
 - Jefferson 10.5% (38,855)
 - Denver 82.8% (306,055)
 - Arapahoe 6.7% (24,801)
@@ -43,4 +46,4 @@ Give at least two examples of how this script can be modified to be used for oth
 - senate elections
 - House elcetions
 
-
+![Election_Analysis](https://github.com/agnieszka-web/Election_Analysis/issues/1#issue-792272915)
