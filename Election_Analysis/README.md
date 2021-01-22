@@ -1,6 +1,7 @@
 # Election_Audit_Analysis
 
 The purpose of this audit analysis is to answer the following questions:
+
 -county with the highest voter turnout
 
 -the voter turnout for each county
@@ -16,7 +17,7 @@ How many votes were cast in this congressional election?
  - There were 369,711 votes cast in the election
  
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-- Conty Votes:
+- County Votes:
 
 - Jefferson 10.5% (38,855)
 - Denver 82.8% (306,055)
@@ -44,6 +45,6 @@ Election-Audit Summary: In a summary statement, provide a business proposal to t
 Give at least two examples of how this script can be modified to be used for other elections.
 
 - senate elections
-- House elcetions
+- House elections
 
-![Election_Analysis](https://github.com/agnieszka-web/Election_Analysis/issues/1#issue-792272915)
+![Election_Results](https://user-images.githubusercontent.com/76173584/105541070-9a32be80-5ccd-11eb-83a5-29dcf9ebca97.PNG)
