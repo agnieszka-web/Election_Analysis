@@ -59,7 +59,7 @@ Analysis performed:
 This analysis was to find out the election results from the Colorado Elections Board.  We used Python (programming language for data science) in our analysis to be able to output the requested information.  We applied decision statements, membership and logical operators, repetition statements to write the algorithms. The pseudocode outlined each step in the programming process.  The step-by-step analysis was frequently committed to GitHub.   
 
 
-
+![](Resources/votes.PNG)
 
  
  
